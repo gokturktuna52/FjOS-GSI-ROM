@@ -1,0 +1,1 @@
+add_lunch_combo fjos_arm64-userdebug
